@@ -1,0 +1,26 @@
+{
+  "name": "aigc-company",
+  "version": "1.0.0",
+  "description": "光之年科技",
+  "main": "index.js",
+  "scripts": {
+    "serve": "cross-env NODE_ENV=dev gitbook serve",
+    "dev": "NODE_ENV=dev gitbook serve",
+    "build": "gitbook build",
+    "cp": "sh ./scripts/cp.sh"
+  },
+  "author": "ZongLou",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-plugin-accordion": "^1.1.3",
+    "gitbook-plugin-back-to-top-button": "0.1.4",
+    "gitbook-plugin-code": "0.1.0",
+    "gitbook-plugin-expandable-chapters": "0.2.0",
+    "gitbook-plugin-flexible-alerts": "1.0.3",
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-livereload": "0.0.1",
+    "gitbook-plugin-search-pro": "2.0.2",
+    "gitbook-plugin-simple-mind-map": "^0.2.4",
+    "gitbook-plugin-theme-lou": "1.0.3"
+  }
+}
