@@ -18,8 +18,4 @@
 
 ---
 
-<center>
-
-<a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" class="ali-report-link"><img src="assets/beian.avif" style="padding: 0px;width: 20px;display: inline-block;height: 20px;margin-right: 12px;vertical-align: top;" alt="苏ICP备 16036606号"><span class="ali-report-link-text">苏 ICP 备 16036606 号</span></a>
-
-</center>
+<center><a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" class="ali-report-link"><img src="assets/beian.avif" style="padding: 0px;width: 20px;display: inline-block;height: 20px;margin-right: 12px;vertical-align: top;" alt="苏ICP备 16036606号"><span class="ali-report-link-text">苏 ICP 备 16036606 号</span></a></center>
