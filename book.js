@@ -3,15 +3,15 @@ let plugins = [
   '-sharing',
   '-search',
   '-favicon',
-  'accordion',
-  'katex',
-  'simple-mind-map',
-  'expandable-chapters',
+  '-accordion',
+  '-katex',
+  '-simple-mind-map',
+  '-expandable-chapters',
   'theme-lou',
   'back-to-top-button',
   'search-pro',
   'flexible-alerts',
-  'code',
+  '-code',
 ];
 if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
 
