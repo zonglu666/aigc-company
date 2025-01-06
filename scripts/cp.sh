@@ -1,1 +1,1 @@
-scp -r ./_book/* root@aliyun_prod:/root/server/beian/company/
+scp -r ./_book/* root@aliyun_prod:/root/server/beian/tupu_data

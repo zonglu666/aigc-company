@@ -16,10 +16,10 @@ let plugins = [
 if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
 
 module.exports = {
-  title: '光之年智能科技',
-  author: '光之年智能科技',
+  title: '数据云堂',
+  author: '数据云堂',
   lang: 'zh-cn',
-  description: '光之年智能科技',
+  description: '数据云堂',
   plugins,
   pluginsConfig: {
     code: {
@@ -72,7 +72,7 @@ module.exports = {
         'assets/apple-touch-icon-precomposed-152.png',
       'hide-elements': ['.summary .gitbook-link'],
       copyright1: {
-        author: '苏州光之年智能科技优先公司',
+        author: '苏州数据云堂优先公司',
       },
       imgStyle: {
         isCenter: true, // 是否居中(默认为true)
